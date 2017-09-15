@@ -1,0 +1,6 @@
+{
+    "division_check": "Given range a[1]..a[n]. Find the count and amount of members, which are divided by 5 and not divided by 7. Please, enter any number ",
+    "relative_prime": "Given a number n. Find all natural numbers smaller than and relative prime with it. Please, enter any number ",
+    "amicable_numbers": "Two integers are called amicables if each of them is equal to the sum of all divisors of the second, except for the same number. Find all couples of amicable numbers in the range from 200 to 300",
+    "squared_numbers": "Given a number 'n'. Find combination of 'x, y, x' where 'x^2 + y^2 + z^2 = n. Please enter any number:"
+}
